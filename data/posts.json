@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "title": "First Blog Post",
+    "content": "This is the content of the first blog post.",
+    "date": "2023-10-01T12:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "title": "Second Blog Post",
+    "content": "This is the content of the second blog post.",
+    "date": "2023-10-02T12:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "title": "hi guys!!",
+    "content": "this is my first blog post",
+    "date": "2025-02-23T06:17:56.419Z"
+  },
+  {
+    "id": 4,
+    "title": "toastmasters GD",
+    "content": "I got third position",
+    "date": "2025-02-23T06:31:33.782Z"
+  },
+  {
+    "id": 5,
+    "title": "my GD experience",
+    "content": "i bagged the third position",
+    "date": "2025-02-23T06:37:22.054Z"
+  },
+  {
+    "id": 6,
+    "date": "2025-02-23T06:40:29.812Z"
+  },
+  {
+    "id": 7,
+    "date": "2025-02-23T06:41:10.910Z"
+  }
+]

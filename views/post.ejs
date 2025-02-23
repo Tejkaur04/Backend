@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= post.title %></title>
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+    <h1><%= post.title %></h1>
+    <% if (post.image) { %>
+        <img src="<%= post.image %>" alt="<%= post.title %>" style="max-width: 100%; height: auto;">
+    <% } %>
+    <p><%= post.content %></p>
+    <p><%= post.date %></p>
+    <a href="/posts">Back to Posts</a>
+</body>
+</html>
